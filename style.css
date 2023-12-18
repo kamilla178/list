@@ -1,0 +1,114 @@
+body{   
+    color: blanchedalmond;
+    font-size: 20px;
+    text-align: justify;
+
+    /* background-image: url("https://trafaret-decor.ru/sites/default/files/2022-12/Minimalism%20background%20%28199%29.jpg");
+    background-size: cover; */
+    text-align: center;
+    background-color: rgba(226, 194, 52, 0.897);
+}
+
+h1{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: rgb(255, 249, 249);
+    text-shadow: rgb(12, 12, 12) 3px 4px 7px;
+    text-align: center;
+    height: 150px;
+    padding: 20px;
+    
+
+}
+
+main{
+    background-color:rgb(255, 255, 255);
+    text-shadow: black 5px 7px 12px;
+    color: rgba(0, 0, 0, 0.886);
+    font-size:15px;
+    height: 100%;
+    text-align: left;
+    width:100%;
+    display: flex;
+    justify-content: right;
+    padding-right: 120px;
+}
+    
+
+footer{
+    height: 100%;
+    width: 90%px;
+    background-color: rgb(247, 213, 63);
+    display: flex;
+}
+
+.container{
+    width:100%;
+    height:100%;
+    background-color: beige;
+    display: flex;
+
+
+}
+
+.left{
+    width: 30%;
+    height:100% ;
+    background-color:burlywood;
+    float: left;
+    padding: 50px;
+
+text-align: justify;
+}
+.right{
+    width: 70%;
+    height: 100%;
+    float: right;
+    padding: 10px;
+    display: flex;
+
+}
+.left2{
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+.right2{
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+.footer-left{
+    width: 30%;
+    float: left;
+    padding-left: 100px;
+}
+.footer-right img{
+    padding-top: 20px;
+    
+}
+.footer-right{
+    width: 70%;
+    float:right;
+    text-align: center;
+    padding-top: 20px;
+
+    
+}
+.footer-left img{
+    width: 70px;
+}
+.footer-left2 img{
+    width: 70px;
+}
+.footer-left3 img{
+    width: 70px;
+}
+
+.footer-left ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
